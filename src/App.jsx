@@ -21,7 +21,7 @@ const LandingPage = () => {
                         />
                     </div>
                     <div className="flex flex-col">
-                        <span className="text-xl font-bold tracking-tight gold-gradient italic leading-none">Al RAYAH GLOBAL GROUP LTD</span>
+                        <span className="text-xl font-bold tracking-tight gold-gradient italic leading-none">AL RAYAH GLOBAL GROUP LTD</span>
                         <span className="text-[10px] text-accent-gold/50 uppercase tracking-[0.2em] font-bold mt-1">Excellence Defined</span>
                     </div>
                 </div>
